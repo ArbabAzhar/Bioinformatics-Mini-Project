@@ -1,0 +1,6 @@
+RNA Stability:
+
+The RNA secondary structure predicted by RNAfold shows a minimum free energy (MFE) of _429.30-X kcal/mol. 
+The negative MFE indicates that the RNA folds into a stable structure. 
+Stability arises from base-pairing interactions, especially GC-rich regions, which form strong hydrogen bonds. 
+Loops and unpaired regions slightly reduce stability, but overall the mRNA is thermodynamically stable.

@@ -1,0 +1,11 @@
+ORF Finder Results:
+
+- ORF 1: Start 1, Stop 300, Frame +1, Length 300 bp
+- ORF 2: Start 100, Stop 450, Frame +2, Length 350 bp
+...
+- ORF 6: Start 1915, Stop 905, Frame +1, Length 1010 bp  <-- Selected
+
+Reason for choosing ORF 6: ORF 6 is the longest coding region, starts with ATG, and is most likely to produce a functional protein.
+Screenshots included:
+- ORF_finder_all_ORFs.png: All ORFs identified
+- ORF_finder_ORF6.png: Selected ORF 6 highlighted

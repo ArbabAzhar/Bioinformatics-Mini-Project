@@ -1,0 +1,5 @@
+Functional Prediction for ORF 6:
+
+Based on InterPro and Pfam analysis, ORF 6 contains a Cytochrome P450 domain. 
+Cytochrome P450 proteins are involved in oxidation-reduction reactions and the metabolism of small molecules. 
+Therefore, ORF 6 is likely to function as an oxidoreductase and may participate in secondary metabolite biosynthesis.

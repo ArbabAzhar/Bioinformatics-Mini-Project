@@ -1,0 +1,36 @@
+Molecular weight: 35934.81
+Theoretical pI: 5.19
+Instability index: 35 (stable)
+Aliphatic index: 85
+GRAVY: -0.2
+Number of amino acids: 336
+Total number of negatively charged residues (Asp + Glu): 42
+Total number of positively charged residues (Arg + Lys): 30
+
+Atomic composition:
+Carbon      C	      1576
+Hydrogen    H	      2502
+Nitrogen    N	       456
+Oxygen      O	       478
+Sulfur      S	        14
+
+Formula: C1576H2502N456O478S14
+Total number of atoms: 5026
+
+Extinction coefficients:
+Extinction coefficients are in units of  M-1 cm-1, at 280 nm measured in water.
+Ext. coefficient    28085
+Abs 0.1% (=1 g/l)   0.782, assuming all pairs of Cys residues form cystines
+Ext. coefficient    27960
+Abs 0.1% (=1 g/l)   0.778, assuming all Cys residues are reduced
+
+Estimated half-life:
+The N-terminal of the sequence considered is M (Met).
+The estimated half-life is: 30 hours (mammalian reticulocytes, in vitro).
+                            >20 hours (yeast, in vivo).
+                            >10 hours (Escherichia coli, in vivo).
+
+Instability index:
+The instability index (II) is computed to be 33.07
+This classifies the protein as stable.
+

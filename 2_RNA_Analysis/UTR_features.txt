@@ -1,0 +1,6 @@
+UTR Features for ORF 6:
+
+5' UTR: [sequence before start codon ATG]
+3' UTR: [sequence after stop codon TAA/TAG/TGA]
+
+Note: UTRscan tool was unavailable; UTRs manually identified based on ORF boundaries.

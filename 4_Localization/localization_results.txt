@@ -1,0 +1,10 @@
+Subcellular Localization of ORF 6 protein:
+
+Protein analyzed: ORF 6
+
+Tool predictions:
+- PSORT: Cytoplasm
+- TargetP: Cytoplasm
+
+Final predicted location: Cytoplasm
+Note: Both tools agree on cytoplasmic localization, indicating high confidence.
